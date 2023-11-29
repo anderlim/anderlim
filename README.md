@@ -76,7 +76,7 @@ Atualmente estou cursando Sistemas para Internet no Instituto Federal de Brasíl
 ### 📊 Github Stats
 <br>
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ehomiguel&count_private=true&show_icons=true&theme=dracula)
-  ![Estatísticas de linguagens mais usadas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=ehomiguel&layout=compact&count_private=true&show_icons=true&theme=dracula&langs_count=16)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anderlim&count_private=true&show_icons=true&theme=dracula)
+  ![Estatísticas de linguagens mais usadas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=anderlim&layout=compact&count_private=true&show_icons=true&theme=dracula&langs_count=16)
   
 
