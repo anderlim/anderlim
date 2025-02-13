@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-# Hey threre <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, Eu sou Anderson Antunes!
+# Olá pessoal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, Eu sou Anderson Antunes!
 
-Atualmente estou cursando Sistemas para Internet no Instituto Federal de Brasília (IFB) e busco constantemente aprender mais sobre o universo da programação. Já tive contato com diversas áreas, incluindo frontend, backend, devops, mobile e outras. Minha capacidade de aprendizado rápido me permite explorar novas tecnologias e, dessa forma, criar projetos incríveis antes de concluir minha graduação. Estou sempre disposto a aprender e aprimorar minhas habilidades para oferecer soluções de qualidade aos projetos que me envolvo
+Atualmente sou formado em Sistemas para Internet no Instituto Federal de Brasília (IFB) e busco constantemente aprender mais sobre o universo da programação. Já tive contato com diversas áreas, incluindo frontend, backend, devops, mobile e outras. Minha capacidade de aprendizado rápido me permite explorar novas tecnologias e, dessa forma, criar projetos incríveis antes de concluir minha graduação. Estou sempre disposto a aprender e aprimorar minhas habilidades para oferecer soluções de qualidade aos projetos que me envolvo
 
 <div align="center">
   <a href="https://www.linkedin.com/in/anderson-antunes-1628311ab/" target="_blank">
